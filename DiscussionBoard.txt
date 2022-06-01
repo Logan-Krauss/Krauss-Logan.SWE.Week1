@@ -1,0 +1,21 @@
+Mobile Verification Toolkit
+https://github.com/mvt-project/mvt.git
+	Description: I found this program initially that adds a collection of tools used to help protect Mobile Devices, which when creating a project that isn't initially planned to be on mobile but gets changed later, may be useful. While using it requires some software forensic skills (which I had no idea existed before this assignment) I still found the product to be interesting and unique!
+    
+
+Gitignore
+https://github.com/github/gitignore.git
+	gitignore doesn't particularly seem interesting to me, but admittidley it does seem significant to ignore files that may contain sensitive data, system specific files, or other files based on system security.
+
+
+The Book of Secret Knowlege 
+https://github.com/trimstray/the-book-of-secret-knowledge.git
+	I found this one for the name, but it remains interesting to me as a sort of sticky note on the side of the desk with a bunch of useful information. While this is targeted towards admin roles based on the description, it's still facinating to see the extent of how github is used aside from being a way to safely store and protect your work. 
+
+inlang: Localization Product 
+https://github.com/inlang/inlang.git
+	Localization is something super important to me, as I plan to one day work for a Japanese country with Development. I found this one as an option for localization, but many of them seem to look similar. 
+
+coding-interview-university 
+https://github.com/jwasham/coding-interview-university.git
+	This one seemed to be the most interesting, and the one I'd really like to look at as a roadmap for my studies. It is more encouraging to see the creator was found from this and hired by Amazon as such, which is exciting! I think always having a go to before interviews to boost confidence is a big deal as well!
